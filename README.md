@@ -7,3 +7,6 @@ Your going to have to have these installed onto your computer, you can do his by
 pip install beautifulsoup4
 
 pip install requests
+
+web scraping is considered illegal, so i used a website that allows users to practice web scraping 
+http://quotes.toscrape.com/
